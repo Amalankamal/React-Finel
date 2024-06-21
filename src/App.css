@@ -1,0 +1,11 @@
+
+.Student table{
+  border: 1px solid (#ccc);
+  width:200px;
+}
+
+.Student table td,
+.Student table tr{
+text-align: left;
+
+}
